@@ -1,0 +1,5 @@
+UnidadOrganizativa
+"ou=Equipos,ou=Recursos Humanos,dc=tutorial,dc=local"
+"ou=Grupos,ou=Recursos Humanos,dc=tutorial,dc=local"
+"ou=Usuarios,ou=Recursos Humanos,dc=tutorial,dc=local"
+"ou=Recursos Humanos,dc=tutorial,dc=local"

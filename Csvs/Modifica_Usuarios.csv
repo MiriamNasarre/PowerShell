@@ -1,0 +1,3 @@
+﻿UnidadOrganizativa;Name;Nombre;Apellido;Oficina;Title;Descripcion;Departamento;Empresa;Ciudad;Pais;Password;SamAccountName;UserPrincipalName;DisplayName
+OU=INFORMATICA,DC=TUTORIAL,DC=LOCAL;Lorena Rodriguez;Lorena;Rodriguez;Comunicaciones;Agent Contact Center;Contact Center;IT;Grupo SAMCA;Zaragoza;ES;P@ssword;Lorena Rodriguez;Lorena Rodriguez@tutorial.local;Lorena Rodriguez
+OU=CONTABILIDAD,DC=TUTORIAL,DC=LOCAL;David Lopez;David;Lopez;Comunications;Agent Contact Center;Contact Center;Contable;Grupo SAMCA;Barcelona;ES;P@ssword;David Lopez;David Lopez@tutorial.local;David Lopez

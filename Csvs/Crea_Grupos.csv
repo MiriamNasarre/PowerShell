@@ -1,0 +1,3 @@
+Nombre,Ambito,Tipo,Descripcion,uo
+Contabilidad,Global,Security,Departamento de contabilidad,"ou=grupos,ou=contabilidad,dc=tutorial,dc=local"
+Informatica,Global,Security,Departamento de IT,"ou=grupos,ou=informatica,dc=tutorial,dc=local"

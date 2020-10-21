@@ -1,0 +1,9 @@
+Nombre,Descripcion,uo
+Contabilidad,Departamento de contabilidad,"dc=tutorial,dc=local"
+Equipos,Equipos de contabilidad,"ou=contabilidad,dc=tutorial,dc=local"
+Grupos,Grupos de contabilidad,"ou=contabilidad,dc=tutorial,dc=local"
+Usuarios,Usuarios de contabilidad,"ou=contabilidad,dc=tutorial,dc=local"
+Informatica,Departamento de informatica,"dc=tutorial,dc=local"
+Equipos,Equipos de informatica,ou=Informatica,"ou=informatica,dc=tutorial,dc=local"
+Grupos,Grupos de informatica,ou=Informatica,"ou=informatica,dc=tutorial,dc=local"
+Usuarios,Usuarios de informatica,ou=Informatica,"ou=informatica,dc=tutorial,dc=local"

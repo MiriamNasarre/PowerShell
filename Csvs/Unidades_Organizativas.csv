@@ -1,0 +1,5 @@
+Nombre,Descripcion,uo
+"Recursos Humanos","Personal de Contratacion","dc=tutorial,dc=local"
+"Equipos","Ordenadores Recursos Humanos","ou=Recursos Humanos, dc=tutorial,dc=local"
+"Grupos","Grupos Recursos Humanos","ou=Recursos Humanos, dc=tutorial,dc=local"
+"Usuarios","Usuarios Recursos Humanos","ou=Recursos Humanos,dc=tutorial,dc=local"
